@@ -2,7 +2,7 @@
   <img src="./source/img/firewall.png">
 </p>
 
-# Firewalll
+# Firewall
 
 - A python script to add malicious IP's to firewall.
 
